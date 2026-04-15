@@ -1,5 +1,5 @@
 ## Overview
-Data Mining$-$ADIKARA is a data science competition held by PRODIGI for School of Computing of Telkom University. The core objective is to develop a robust Credit Scoring Model to predict the risk of borrower default based on historical loan transaction data.
+Data Mining $-$ ADIKARA is a data science competition held by PRODIGI for School of Computing of Telkom University. The core objective is to develop a robust Credit Scoring Model to predict the risk of borrower default based on historical loan transaction data.
 
 About Competition:
 - learning paradigm: supervised learning.
